@@ -1,4 +1,4 @@
-add_executable(server src/cloudStorageServer.cpp)
+add_executable(server src/server.cpp)
 
 find_package(Threads REQUIRED)
 
